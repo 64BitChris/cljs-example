@@ -3,7 +3,10 @@ pom.xml
 /lib/
 /classes/
 .lein-deps-sum
-
+.lein-plugins
+.lein-cljsbuild-compiler*
 
 *.iml
 .idea
+
+resources/public/js/main.js
